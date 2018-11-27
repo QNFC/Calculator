@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="AC">AC</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="number_zero">0</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="result">=</string>
+    <string name="dot">.</string>
+    <string name="percent">%</string>
+    <string name="nev">+/-</string>
+    <string name="string_0">0</string>
+    <string name="error">Error</string>
+    <string name="clear_menu">Clear</string>
+    <string name="save_menu">Save</string>
+    <string name="save_success">Save success</string>
+</resources>
